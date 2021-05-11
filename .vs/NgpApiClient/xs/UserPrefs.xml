@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{710F8B39-FD53-4197-9076-6F4B3AE9E457}|Default">
+  <MonoDevelop.Ide.ItemProperties.NgpApiClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NgpApiClient/Program.cs">
+    <Files>
+      <File FileName="NgpApiClient/Program.cs" Line="21" Column="9" />
+      <File FileName="NgpApiClient/Repo.cs" Line="6" Column="86" />
+      <File FileName="NgpApiClient/ApiServices.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NgpApiClient" expanded="True">
+            <Node name="NgpApiClient" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

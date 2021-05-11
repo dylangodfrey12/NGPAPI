@@ -1,0 +1,17 @@
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/bin/Debug/net5.0/NgpApiClient.deps.json
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/bin/Debug/net5.0/NgpApiClient.runtimeconfig.json
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/bin/Debug/net5.0/NgpApiClient.runtimeconfig.dev.json
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/bin/Debug/net5.0/NgpApiClient.dll
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/bin/Debug/net5.0/ref/NgpApiClient.dll
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/bin/Debug/net5.0/NgpApiClient.pdb
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/NgpApiClient.csprojAssemblyReference.cache
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/NgpApiClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/NgpApiClient.AssemblyInfoInputs.cache
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/NgpApiClient.AssemblyInfo.cs
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/NgpApiClient.csproj.CoreCompileInputs.cache
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/NgpApiClient.dll
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/ref/NgpApiClient.dll
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/NgpApiClient.pdb
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/NgpApiClient.genruntimeconfig.cache
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/dylangodfrey/Projects/NgpApiClient/NgpApiClient/obj/Debug/net5.0/NgpApiClient.csproj.CopyComplete
